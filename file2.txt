@@ -1,1 +1,1 @@
-
+It is an established fact that a reader will be distracted by readable content of a page when looking at the layout. The point of using "Lorem Ipsum" is that it has a kind of normal distribution of letters, in contrast to using 'Content here, content here', hence making it look like readable English.
